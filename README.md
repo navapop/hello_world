@@ -10,6 +10,7 @@ hello world
 - 7
 <hr>
 
-|bank|rank|9k|
+|name|surname|mmr|
 |----|----|----|
-|wow |navapop|viratigarn|
+|navapop|viratigarn|1240|
+|Nitipat|Suttirak|9305|
